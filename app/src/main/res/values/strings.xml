@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DownsPuzzle</string>
+    <string-array name="col">
+        <item>2X2</item>
+        <item>3X3</item>
+        <item>4X4</item>
+    </string-array>
+</resources>
